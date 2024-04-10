@@ -1,2 +1,2 @@
-float a=4, b=5, c=1, resultado = b*a - pow(b,2) / 4*c;
+float a=2, b=3, c=4, resultado = pow(b,2) - 4*a*c;
 println(resultado);
