@@ -1,2 +1,2 @@
-float a=4, b=5, resultado = a*b / pow(3,2) ;
+float x=2, resultado = 3*pow(x,4) – 5*pow(x,3) + x*12 – 17) ;
 println(resultado);
